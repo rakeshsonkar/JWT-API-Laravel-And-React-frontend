@@ -1,0 +1,9 @@
+.modal {
+    width: 50% !important;
+    position: absolute !important;
+}
+
+
+button.btn.btn-primary.text-center {
+    margin: 0px 40%;
+}
